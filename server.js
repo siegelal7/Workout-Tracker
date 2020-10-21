@@ -12,7 +12,12 @@ app.use(express.json());
 
 mongoose.connect(
   process.env.MONGODB_URI || "mongodb://localhost/architecture",
-  { useNewUrlParser: true, useUnifiedTopology: true }
+  {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+    useFindAndModify: false,
+  }
 );
 
 const connection = mongoose.connection;
