@@ -10,6 +10,7 @@ app.use(logger("dev"));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
+//TODO: change name of db from architecture
 // mongoose.connect(
 //   process.env.MONGODB_URI || "mongodb://localhost/architecture",
 //   {
