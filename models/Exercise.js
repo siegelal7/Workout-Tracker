@@ -21,6 +21,9 @@ const exerciseSchema = new Schema({
   sets: {
     type: Number,
   },
+  distance: {
+    type: Number,
+  },
 });
 
 const Exercise = mongoose.model("Exercise", exerciseSchema);
