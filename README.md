@@ -1,37 +1,50 @@
 # Your Workout Partner
-  
-  ## Description
-  Your Workout Partner is a web app designed to help users keep track of their workouts. You can enter your cardio or weight training as you go and view statistics on how you've done the past week.
 
-  ## Table of contents
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Technologies](#Technologies)
-  * [Contribution](#Contribution)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
+## Description
 
-  ## Installation
-  Nothing.
+Your Workout Partner is a web app designed to help users keep track of their workouts. You can enter your cardio or weight training as you go and view statistics on how you've done the past week.
 
+## Table of contents
 
-  ## Usage
-  Navigate to https://workout-tracker-gt-ft.herokuapp.com/ to get started!
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Technologies](#Technologies)
+- [Contribution](#Contribution)
+- [Tests](#Tests)
+- [Images](#Images)
+- [Questions](#Questions)
 
-  ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Installation
 
-  #  Technologies
-  HTML,CSS,JavaScript,node.JS
+Nothing.
 
-  ## Contribution
-  None
+## Usage
 
-  ## Tests 
-  None
+Navigate to https://workout-tracker-gt-ft.herokuapp.com/ to get started!
 
-  ## Questions
-  siegelal@protonmail.com [Github page](https://www.github.com/siegelal7)
-  
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Technologies
+
+HTML,CSS,JavaScript,node.JS
+
+## Contribution
+
+None
+
+## Tests
+
+None
+
+## Images
+
+![Front Page](./assets/screenshot.png "home page")
+![Stats Page](./assets/stats.png "stats page")
+
+## Questions
+
+siegelal@protonmail.com [Github page](https://www.github.com/siegelal7)
